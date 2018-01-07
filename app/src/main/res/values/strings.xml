@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="text_view3_text1" formatted="false">5</string>
+    <string name="text_view6_text" formatted="false">1 KG</string>
+    <string name="text_button2_text" formatted="false">News</string>
+    <string name="text_view1_text2" formatted="false">Blanket Distribution in Sunsari</string>
+    <string name="text_view2_text2" formatted="false">10</string>
+    <string name="text_view1_text4" formatted="false">On Saturday Poush 22, there is Bagmati Sarsafai Program at Balkumari Bridge from 10 A.M. to 11 A.M. Volunteers will be provided with the gloves and mask at the event. Volunteers must arrive in time and should work full time in order to claim the Rewards.</string>
+    <string name="text_view1_text6" formatted="false">Even Title</string>
+    <string name="text_button1_text1" formatted="false">Donate</string>
+    <string name="text_view3_text" formatted="false">On Saturday Poush 22, there is Bagmati Sarsafai Program at Balkumari Bridge from 10 A.M. to 11 A.M. Volunteers will be provied...</string>
+    <string name="text_view4_text1" formatted="false">Saptakoshi Flood</string>
+    <string name="text_button1_text2" formatted="false">Events</string>
+    <string name="text_view3_text2" formatted="false">Quantity</string>
+    <string name="text_view1_text5" formatted="false">We provide a platform that supports in sustainability of social and environmental aspects of SDGs. Our initiative is to help the people who are in crisis of the resources and to motivate the people to donate resources which can be reused like books, clothes and also to motivate people to volunteer themselves in the events like blood donation, sanitation programs, event management etc. Due to this, the needy gets the resources they require and the donors also get the reward points that can be used to redeem discount in different shops.</string>
+    <string name="text_button6_text" formatted="false">Contact</string>
+    <string name="text_view7_text" formatted="false">Rewards</string>
+    <string name="text_button5_text" formatted="false">Reedem</string>
+    <string name="text_view5_text" formatted="false">Every year Sunsari is highly affected by flood due to heavy rainfall..</string>
+    <string name="text_view1_text3" formatted="false">Your Total Points</string>
+    <string name="text_button3_text" formatted="false">History</string>
+    <string name="text_view1_text" formatted="false">Flood At Sunsari</string>
+    <string name="text_view2_text4" formatted="false">Product</string>
+    <string name="text_view2_text3" formatted="false">Your Points:</string>
+    <string name="text_view8_text" formatted="false">5 Points</string>
+    <string name="text_view2_text" formatted="false">Sitlahar in Dhanusha District</string>
+    <string name="text_view5_text1" formatted="false">Clothes</string>
+    <string name="text_view1_text1" formatted="false">Blanket Distribution in Sunsari</string>
+    <string name="text_button4_text" formatted="false">Places</string>
+    <string name="text_view4_text" formatted="false">Due to high humidity at Dhanusha, the cold wave (Sitlahar) has started and scarcity of fire woods as well as clothes for the victim has been...</string>
+    <string name="text_button1_text" formatted="false">Reedem</string>
+    <string name="app_name" formatted="false">DonEx</string>
+    <string name="text_view2_text1" formatted="false">Every year Sunsari district is highly affected by flood due to heavy rainfall and overflow of water from Koshi Barrage. The blankets donated by our users have beendonated to the victims of Sunsari on 2074-05-15 by our team. We distributed total 75 sets of new as well as used blankets to the victim.</string>
+    <string name="text_button7_text" formatted="false">Invite Friends</string>
+
+
+    <!--slider strings-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">INFO</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">EMERGENCY</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">FORUM</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">HELP</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <!--end of slider strings-->
+
+    <!--login string-->
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Login</string>
+
+    <!--end of login string-->
+
+</resources>

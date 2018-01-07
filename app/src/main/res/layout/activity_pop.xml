@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/pink_200">
+
+
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:ems="10"
+        android:hint="Title"
+        android:inputType="text"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColorHint="@color/white"
+        android:textSize="17sp">
+
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/product"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_alignParentLeft="true"
+        android:hint="product"
+        android:textColorHint="@color/white"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:inputType="text"
+        android:textSize="17sp"
+        android:ems="10" >
+        <requestFocus />
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/quantity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/product"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:inputType="text"
+        android:hint="quantity"
+        android:textColorHint="@color/white"
+        android:textSize="17sp"
+        android:ems="10" >
+
+    </EditText>
+
+
+
+    <Button
+        android:id="@+id/button_donate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/quantity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@color/white_blur"
+        android:text="Donate"
+        android:textColor="@color/black"/>
+
+
+</RelativeLayout>
